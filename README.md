@@ -17,5 +17,5 @@ The projects included here include working code for you to run and customize. So
 > This project requires some wiring as well as a RaspberryPi computer and associated peripherals. You can simulate a RaspberryPi on your computer using an extension in Visual Studio Code. Search the Extensions library for a current one.
 6. Web Page with Flask
 > This project requires that you install the flask module. After that, when you run it, it will create a web server on your machine and host your Python and HTML files in dynamic web pages. This demo will not run in a web browser or Jupyter code editor, because those editors do not have access to the operating system properties of your computer. You need to run it in Visual Studio Code or another method directly on your computer for it to work.
-7. Data Analytics with Jupyter and Pandas
-> COMING SOON
+7. Bill splitting calculator with Python and CalcGUI
+> This project will use python and CalcGUI to create a calculator that would split the amount of the check among a group. It can also calculate tax and tip for their each foods as well. 
