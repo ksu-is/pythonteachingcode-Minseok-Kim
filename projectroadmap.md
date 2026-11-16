@@ -1,0 +1,7 @@
+- [ ] Create repository
+- [ ] Create Readme.md
+- [ ] Create projectroadmap.md
+- [ ] Find similar repositories
+- [ ] Develop code
+- [ ] Updates and test code
+- [ ] Frequently update Readme.md and projectroadmap,md
